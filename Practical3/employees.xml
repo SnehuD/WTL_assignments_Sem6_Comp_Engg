@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees SYSTEM "employees.dtd">
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <name>Snehal Dahake</name>
+        <department>Computer</department>
+        <position>Software Developer</position>
+        <salary>50000</salary>
+    </employee>
+    <employee>
+        <id>2</id>
+        <name>Prasad Dhobale</name>
+        <department>Finance</department>
+        <position>Accountant</position>
+        <salary>60000</salary>
+    </employee>    
+</employees>
